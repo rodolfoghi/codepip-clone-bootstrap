@@ -1,0 +1,17 @@
+main {
+  background: url(bg.png) no-repeat;
+  background-position: center top;
+  height: 700px;
+  background-color: #006181;
+}
+
+nav {
+  height: 85px;
+  box-sizing: border-box;
+  background-color: #007E9E;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 28px;
+}
